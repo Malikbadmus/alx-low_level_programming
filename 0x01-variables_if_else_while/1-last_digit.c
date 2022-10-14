@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
 *main-Program start here
-*return-0 if successful
+*return:0 if successful
 */
 int main(void)
 {
