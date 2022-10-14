@@ -3,7 +3,7 @@
 *main-program starting point
 *Return: 0 if sucessfull
 */
-int main(void)  
+int main(void)
 {
 char i;
 for (i = 'a'; i <= 'z'; i++)
