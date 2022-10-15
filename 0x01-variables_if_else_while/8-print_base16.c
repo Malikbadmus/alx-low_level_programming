@@ -3,7 +3,7 @@
 *main-program starting point
 *Return: 0 if sucessfull
 */
-int main(void) 
+int main(void)
 {
 int i;
 char hex[] = "0123456789abcdef";
