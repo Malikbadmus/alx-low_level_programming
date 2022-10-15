@@ -3,7 +3,7 @@
 *main-program starting point
 *Return: 0 if sucessfull
 */
-int main(void)  
+int main(void)
 {
 int i, k = '0', j;
 for (i = '0'; i <= '9'; i++)
