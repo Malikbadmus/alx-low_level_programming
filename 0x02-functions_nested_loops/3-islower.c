@@ -3,7 +3,7 @@
  *_islower-check lowercase character
  *@alph: declared variable
  *
- *Return: 1 
+ *Return: 1
  */
 
 int _islower(int alph)
