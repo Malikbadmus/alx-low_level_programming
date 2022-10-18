@@ -12,6 +12,9 @@ void alphabet()
 }
 int main(void)
 {
-	alphabet();
-	return (0);
+	char c;
+	c = alphabet();
+
+	_putchar(c);
+		return (0);
 }
