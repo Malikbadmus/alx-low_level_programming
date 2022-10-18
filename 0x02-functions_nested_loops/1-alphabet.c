@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  *main-Program starting point
  *Return: 0 if successful
