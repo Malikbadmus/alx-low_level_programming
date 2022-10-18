@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- *main-Program starting point
- *Return: 0 if successful
+ *alphabet-print alphabet 
  */
 
 void print_alphabet(void)
