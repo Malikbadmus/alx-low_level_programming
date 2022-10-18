@@ -9,9 +9,8 @@
 
 int _isalpha(int calph)
 {
-if ((calph >= 'a' && calph <= 'z') ||
-    (calph >= 'A' && calph <= 'Z'))
-			return (1);
+	if ((calph >= 'a' && calph <= 'z') || (calph >= 'A' && calph <= 'Z'))
+		return (1);
 	else
 		return (0);
 }
