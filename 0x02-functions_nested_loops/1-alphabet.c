@@ -4,14 +4,19 @@
  *Return: 0 if successful
  */
 
-void alphabet()
+void print_alphabet(void)
+
 {
-	char alph;
-	for(alph = 'a'; alph < 'z'; ++alph)
-		_putchar(alph);
-}
-int main(void)
-{
-	alphabet();
-	return (0);
+
+	char letter;
+
+
+       for (letter = 'a'; letter <= 'z'; letter++)
+
+		_putchar(letter);
+
+
+
+	_putchar('\n');
+
 }
