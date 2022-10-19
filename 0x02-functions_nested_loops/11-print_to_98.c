@@ -1,31 +1,35 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *main - Lists all the natural numbers below 1024 (excluded)
- *that are multiples of 3 or 5.
- * Return: Always 0.
+ *print_to_98-our program
+ * @n: The number to begin counting at.
  */
 
 void print_to_98(int n)
-
 {
 
-	int sum = 0;
-
-
-
-	for (n = 0; n < 1024; n++)
+	if (n >= 98)
 
 	{
 
-		if ((n % 3) == 0 || (n % 5) == 0)
+		while (n > 98)
 
-			sum += n;
+			printf("%d, ", n--);
+
+		printf("%d\n", n);
 
 	}
 
-	printf("%d\n", sum);
 
-	
 
+	else
+
+	{
+
+		while (n < 98)
+
+			printf("%d, ", n++);
+
+		printf("%d\n", n);
+	}
 }
