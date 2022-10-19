@@ -1,17 +1,12 @@
 #include <stdio.h>
+#include "main.h"
 /**
-
- * main - Lists all the natural numbers below 1024 (excluded)
-
- *        that are multiples of 3 or 5.
-
- *
-
+ * print_to_98 - Lists all the natural numbers below 1024 (excluded)
+ *that are multiples of 3 or 5.
  * Return: Always 0.
-
  */
 
-int main(void)
+int print_to_98(void)
 
 {
 
