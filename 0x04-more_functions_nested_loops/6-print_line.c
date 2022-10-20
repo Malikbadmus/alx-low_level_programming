@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  *print_line-program starting point
- *@n-variable
+ *@n: variable
  *Return: 0 if sucessfull
  */
 
