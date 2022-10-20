@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  *print_numbers- it print numbers
+ *@i: variable
  *Return: 0 if successful
  */
 
