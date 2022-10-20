@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*main-program starting point
+*print_most_numbers-program starting point
 *Return: 0 if sucessfull
 */
 
