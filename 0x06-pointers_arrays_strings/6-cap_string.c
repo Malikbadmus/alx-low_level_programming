@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * cap_string - capitalizing all first letters
  * @str : string pointer
