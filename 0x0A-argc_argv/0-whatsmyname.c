@@ -4,6 +4,8 @@
 /**
  *main- Program starting point
  *Return: 0 if successful
+ *@argc:count v
+ *@argv: variable
  */
 
 int main(int argc, char *argv[])
