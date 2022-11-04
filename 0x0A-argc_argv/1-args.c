@@ -5,7 +5,6 @@
  *main- program starting point
  *@argc: Variable
  *@argv: variable
- *
  *Return: 0 if successful
  */
 
