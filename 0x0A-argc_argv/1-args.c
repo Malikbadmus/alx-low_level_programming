@@ -5,13 +5,14 @@
  *main- program starting point
  *@argc: Variable
  *@argv: variable
- *@i: Variable
+ *
  *Return: 0 if successful
  */
 
 int main(int argc, char *argv[])
 {
 	int i;
+
 	for (i = 0; i < argc; i++)
 		printf("%s\n", argv[i]);
 
