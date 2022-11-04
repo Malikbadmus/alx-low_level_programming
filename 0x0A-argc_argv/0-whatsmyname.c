@@ -1,13 +1,14 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  *
  *
  */
 
-int myname(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	_putchar("%s", argv[0]);
 
-	return(0);
+	return (0);
 }
