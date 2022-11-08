@@ -1,0 +1,9 @@
+#include "main.h"
+#include <stdlib.h>
+
+/**
+ *main- Program starting points
+ *Return: 0 if successful
+ */
+
+
