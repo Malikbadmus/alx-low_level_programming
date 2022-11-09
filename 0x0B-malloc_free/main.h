@@ -2,7 +2,7 @@
 #define MAIN_H_
 
 int _putchar(char c);
-char print_array(unsigned int size, char c);
+char *print_array(unsigned int size, char c);
 
 
 
