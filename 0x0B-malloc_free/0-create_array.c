@@ -19,7 +19,7 @@ char *print_array(unsigned int size, char c)
 
 	p = malloc (size * sizeof(char));
 
-	if (p === 0)
+	if (p == 0)
 
 		return (NULL);
 
