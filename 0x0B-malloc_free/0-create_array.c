@@ -26,7 +26,7 @@ char *print_array(unsigned int size, char c)
 	for(i =0; i < size; i++)
 	{
 
-		c = p[i];
+	        p[i] = c;
 	}
 
 	return (p);
