@@ -17,7 +17,7 @@ char *print_array(unsigned int size, char c)
 
 		return (NULL);
 
-	p = (char *) malloc (size * sizeof(char));
+	p = malloc (size * sizeof(char));
 
 	if (p === 0)
 
@@ -26,7 +26,7 @@ char *print_array(unsigned int size, char c)
 	for(i =0; i < size; i++)
 	{
 
-		c = p + i;
+		c = p[i];
 	}
 
 	return (p);
